@@ -1,6 +1,7 @@
 # 🚓 Sistema de Apoio ao Policiamento Preventivo Dinâmico — PMMG
 
 **Equipe:** WattsUP
+
 **Integrantes:** Theo Del Rio - João Miguel Aguiar - Rodrigo Ruas Deluca
 
 ---
